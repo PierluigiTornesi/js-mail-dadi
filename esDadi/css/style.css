@@ -1,0 +1,42 @@
+.win{
+    background-color: green;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.lose{
+    background-color: red;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.tie{
+    background-color: lightgray;
+    color: black;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.testo{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+.blocchi{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 1rem;
+
+}
